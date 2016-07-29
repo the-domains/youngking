@@ -11,8 +11,8 @@ description: >-
   Hispanic cultural values. Here and with his family, he fostered an early love
   of music. At a young age he joined school and community talent camps, and
   began to take to social media.
-datePublished: '2016-07-29T11:14:10.646Z'
-dateModified: '2016-07-29T11:14:04.765Z'
+datePublished: '2016-07-29T11:15:46.561Z'
+dateModified: '2016-07-29T11:15:43.122Z'
 title: ''
 author: []
 via: {}
