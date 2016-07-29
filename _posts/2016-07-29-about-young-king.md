@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'about - Young King '
-datePublished: '2016-07-29T10:56:42.456Z'
-dateModified: '2016-07-29T10:56:15.635Z'
+datePublished: '2016-07-29T10:57:39.639Z'
+dateModified: '2016-07-29T10:57:28.189Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-29-about-young-king.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: about-young-king/index.html
 _type: Article
 
