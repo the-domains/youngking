@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Young King]]></title>
         <description><![CDATA[Young King]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/youngking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 10:38:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jul 2016 10:52:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/youngking/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>about - Young King </p>]]></description>
-            <link>undefinedabout-young-king/index.html</link>
+            <link>https://thegrid.ai/youngking/about-young-king/index.html</link>
             <guid isPermaLink="false">034ec760-66d6-455c-a9ca-80010f42af90</guid>
-            <pubDate>Fri, 29 Jul 2016 10:38:21 GMT</pubDate>
+            <pubDate>Fri, 29 Jul 2016 10:52:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
