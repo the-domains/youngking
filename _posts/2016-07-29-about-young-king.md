@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'about - Young King '
-datePublished: '2016-07-29T10:57:39.639Z'
-dateModified: '2016-07-29T10:57:28.189Z'
+datePublished: '2016-07-29T11:00:24.979Z'
+dateModified: '2016-07-29T10:59:32.109Z'
 title: ''
 author: []
 via: {}
