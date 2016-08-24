@@ -1,20 +1,4 @@
-name: Young King
-favicon: null
-layout_spectrum: 0.99076
 typography_spectrum: 0.75042
-title: Young King
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#171717'
@@ -26,4 +10,21 @@ color:
   lightness: 0.08911447017453611
   saturation: 0.727247794624418
   rhythmicContrast: 0.05148613499477506
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99076
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Young King
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Young King
+description: Music for Rebels
 purpose: []
