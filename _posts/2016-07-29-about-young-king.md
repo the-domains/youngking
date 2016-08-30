@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T19:15:25.132Z'
+datePublished: '2016-08-29T03:00:10.220Z'
 sourcePath: _posts/2016-07-29-about-young-king.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-28T19:15:16.292Z'
+dateModified: '2016-08-29T03:00:09.654Z'
 title: ''
 publisher: {}
 description: 'For business inquiries, please contact management at:'
