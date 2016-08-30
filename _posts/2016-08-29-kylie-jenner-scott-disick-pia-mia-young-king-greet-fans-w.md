@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-29T03:05:10.590Z'
+datePublished: '2016-08-29T03:08:55.281Z'
+sourcePath: _posts/2016-08-29-kylie-jenner-scott-disick-pia-mia-young-king-greet-fans-w.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ey56wvrJW0Q'
 keywords:
   - jenner
@@ -18,9 +19,9 @@ author:
     url: 'https://www.youtube.com/user/PopCandiesTv'
     avatar: {}
 via: {}
-dateModified: '2016-08-28T19:30:53.981Z'
+dateModified: '2016-08-29T03:08:54.521Z'
 title: >-
-  Kylie Jenner, Scott Disick, Pia Mia, Young King greet fans while arriving at
+  Kylie Jenner, Pia Mia, Young King, Scott Disick greet fans while arriving at
   Grand Opening Of Sugar Factory Hollywood 
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ey56wvrJW0Q&feature=applinks'
@@ -67,7 +68,6 @@ publisher:
 description: Check out The Sugar Factory for everything sweet !
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-29-kylie-jenner-scott-disick-pia-mia-young-king-greet-fans-w.md
 inFeed: true
 hasPage: false
 inNav: false
