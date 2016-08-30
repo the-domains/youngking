@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/youngkingxciii/'
+    type: external
 favicon: null
 title: Young King
 description: Music for Яebels
